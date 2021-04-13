@@ -27,4 +27,4 @@ pod update  //Second time onwards.
 ```
 
 ## Output result of this program
-![Simulator Screen Shot - iPhone 11 - 2021-04-13 at 15 37 03](https://user-images.githubusercontent.com/27540739/114507626-53ba8380-9c6e-11eb-94ac-f7a164653a22.png)
+<img width="952" alt="gitImage" src="https://user-images.githubusercontent.com/27540739/114520730-b0249f80-9c7c-11eb-950c-5f7336205d99.png">
