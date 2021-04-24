@@ -28,5 +28,5 @@ pod update  //Second time onwards.
 
 ## Output result of this program
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/27540739/115964650-75feac00-a560-11eb-8ce1-e25dd568f9f3.jpeg" />
+  <img src="https://user-images.githubusercontent.com/27540739/115964650-75feac00-a560-11eb-8ce1-e25dd568f9f3.jpeg" />
 </p>
