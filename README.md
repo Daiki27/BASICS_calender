@@ -27,4 +27,6 @@ pod update  //Second time onwards.
 ```
 
 ## Output result of this program
-<img width="700" alt="gitImage" src="https://user-images.githubusercontent.com/27540739/114520730-b0249f80-9c7c-11eb-950c-5f7336205d99.png">
+<p align="center">
+  <img src="(https://user-images.githubusercontent.com/27540739/115964650-75feac00-a560-11eb-8ce1-e25dd568f9f3.jpeg" />
+</p>
